@@ -1,8 +1,8 @@
 from distutils.core import setup
 setup(
     # How you named your package folder (MyLib)
-    name='Topsis_Mansi_101917203(1)',
-    packages=['Topsis_Mansi_101917203(1)'],   # Chose the same as "name"
+    name='Topsis_Mansi_101917203-1-',
+    packages=['Topsis_Mansi_101917203-1-'],   # Chose the same as "name"
     version='0.1',      # Start with a small number and increase it with every change you make
     # Chose a license from here: https://help.github.com/articles/licensing-a-repository
     license='MIT',
@@ -11,7 +11,7 @@ setup(
     author='Mansi Saini',                   # Type in your name
     author_email='mansisaini7696@gmail.com',      # Type in your E-Mail
     # Provide either the link to your github or to your website
-    url='https://github.com/mansi7696/Topsis_Mansi_101917203(1)',
+    url='https://github.com/mansi7696/Topsis-Mansi-101917203-1-',
     # I explain this later on
     #download_url='https://github.com/mansi7696/Topsis/archive/refs/heads/main.zip',
     # Keywords that define your package best
